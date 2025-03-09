@@ -1,7 +1,7 @@
 import sympy
 import pyqubo
 import neal
-import config_ed_uc_copy as config_ed_uc 
+import config_ed_uc
 import numpy as np
 import os
 import time
