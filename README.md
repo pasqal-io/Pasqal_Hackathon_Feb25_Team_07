@@ -28,4 +28,4 @@ To run the classical solver, where you can edit `NUM_GENS` and `NUM_SCENARIOS`:
 
 This will output a dataset into `data/`.
 
-To run the QNN, a notebook has been created to guide the viewer through the process.
+To run the QNN on this data, a notebook has been created to guide the viewer through the process.
